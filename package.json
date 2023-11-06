@@ -9,7 +9,7 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/dymitrbaranowski/goit-node-hw-01",
   "license": "ISC",
   "dependencies": {
     "commander": "^11.1.0",
